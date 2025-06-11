@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Happy Reddy - product Owner"
+    email: "happyreddy@eazybank.com"
+  onCallSupport:
+    - (333) 666-1234
+    - (333) 777-1345
